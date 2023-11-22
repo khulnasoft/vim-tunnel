@@ -1,0 +1,7 @@
+:tunnel	vim-tunnel.txt	/*:tunnel*
+:tunnelInstall	vim-tunnel.txt	/*:tunnelInstall*
+:tunnelUpdate	vim-tunnel.txt	/*:tunnelUpdate*
+vim-tunnel	vim-tunnel.txt	/*vim-tunnel*
+vim-tunnel-commands	vim-tunnel.txt	/*vim-tunnel-commands*
+vim-tunnel-contents	vim-tunnel.txt	/*vim-tunnel-contents*
+vim-tunnel.txt	vim-tunnel.txt	/*vim-tunnel.txt*
