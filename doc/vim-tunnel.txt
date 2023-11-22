@@ -1,0 +1,21 @@
+*vim-tunnel.txt*
+                                                                   *vim-tunnel*
+
+==============================================================================
+CONTENTS                                                  *vim-tunnel-contents*
+  1. Commands.............................................|vim-tunnel-commands|
+
+==============================================================================
+COMMANDS                                                  *vim-tunnel-commands*
+
+:tunnel                                                                *:tunnel*
+  Run tunnel against the current directory and populate the QuickFix list
+
+:tunnelInstall                                                  *:tunnelInstall*
+  Install the latest version of tunnel to %GOPATH/bin/tunnel
+
+:tunnelUpdate                                                    *:tunnelUpdate*
+  Updates tunnel to the latest version, requires tunnel to be on the path
+
+
+vim:tw=78:ts=8:ft=help:norl:
